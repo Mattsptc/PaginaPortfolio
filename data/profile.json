@@ -44,14 +44,10 @@
       "Organização"
     ]
   },
-  "languages": [
-    "Português BR",
-    "Inglês (Avançado)"
-
-  ],
+  "languages": ["Português BR", "Inglês (Avançado)"],
   "portfolio": [
     {
-      "name": "PokedexAPI" ,
+      "name": "PokedexAPI",
       "url": "https://github.com/Mattsptc/PokedexAPI",
       "github": true
     },
@@ -68,20 +64,19 @@
     {
       "name": "Curso Web Moderno JS",
       "url": "https://www.udemy.com/certificate/UC-36eaa3e1-0008-4c5f-ad0c-b12fd66d761e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email",
-      "github": false
+      "github": true
     }
   ],
   "professionalExperience": [
     {
       "name": "Estudante de Análises de Sistemas em busca de oportunidade no mercado",
-      "period": "Data: 2022 - até o momento:",
-      "description": "Migrando para a área de tecnologia, buscando aprender um pouco todos os dias"},
-      {
-
-        "name": "Profissional com várias soft-skills em gerenciamento de equipe, busca a satisfação do cliente...",
-        "period": "2015 - até o momento",
-        "description": "Esforçado buscando resultados e estudioso correndo atrás do aprendizado"}
-  
-
+      "period": "2022 - até o momento",
+      "description": "Migrando para a área de tecnologia, buscando aprender um pouco todos os dias"
+    },
+    {
+      "name": "Profissional com várias soft-skills em gerenciamento de equipe, busca a satisfação do cliente.",
+      "period": "2015 - até o momento",
+      "description": "Esforçado buscando resultados e estudioso correndo atrás do aprendizado"
+    }
   ]
 }
