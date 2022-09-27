@@ -1,7 +1,7 @@
 {
   "name": "Mateus Rosa Ribeiro de Castro",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Profissional dedicado em busca de estágio no Front-end",
+  "photo": "https://raw.githubusercontent.com/Mattsptc/PaginaPortfolio/main/assets/img/my-photo.png",
+  "job": "Profissional dedicado em busca de estágio no front-end",
   "location": "Patrocínio-MG",
   "phone": "(34) 98800-4177",
   "email": "mateusptc@gmail.com",
@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/Jjs.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Nodejs",
@@ -37,16 +37,16 @@
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
       "Trabalho em equipe",
+      "Foco",
+      "Responsabilidade",
       "Flexibilidade",
       "Organização"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (avançado)"
+    "Inglês (Avançado)"
 
   ],
   "portfolio": [
@@ -59,23 +59,23 @@
       "name": "BootCamp - Formação Javascript Developer",
       "url": "https://github.com/Mattsptc/Forma-o-JAVASCRIPT-developer",
       "github": true
+    },
+    {
+      "name": "Javascript do básico ao Avançado",
+      "url": "https://www.udemy.com/certificate/UC-a4a1c487-eb5c-4053-923b-35e4af1190d1/",
+      "github": true
+    },
+    {
+      "name": "Curso Web Moderno JS",
+      "url": "https://www.udemy.com/certificate/UC-36eaa3e1-0008-4c5f-ad0c-b12fd66d761e/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email",
+      "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
+      "name": "Estudante de Análises de Sistemas em busca de oportunidade no mercado",
       "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
-    }
+      "description": "Migrando para a área de tecnologia, buscando aprender um pouco todos os dias"}
+
   ]
 }
